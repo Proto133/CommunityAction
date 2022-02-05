@@ -10,7 +10,8 @@ Once the instance is live, other holders of the respective NFT collection can jo
 
 ## User Experience:
 When logged in (authenticated with wallet containing respective NFT) the user will see:
-    -A dashboard allowing them to 
+
+    -A dashboard allowing them to:
         -Review transaction history
         -Deposit into the wallet
         -Submit for a withdrawal (specifics based on CA configuration)
